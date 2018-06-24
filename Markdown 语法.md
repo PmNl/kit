@@ -332,6 +332,19 @@ __加粗__
 
 **_加粗 斜体_**
 
+### 删除线
+
++ 使用 ~~表示删除线
+
+*demo* :pushpin:
+
+```
+    ~~删除线~~
+```
+
+*显示* :paperclip:
+
+~~删除线~~
 
 ### 超链接
 
@@ -348,8 +361,6 @@ __加粗__
 *显示* :paperclip:
 
 [Markdown ](http://www.markdown.cn/)
-
----
 
 2. 第二种链接内容定义的形式为：
 
@@ -376,10 +387,33 @@ __加粗__
 *demo* :pushpin:
 
 ```
-    <http://www.baidu.com>
+    <http://www.markdown.cn/>
 ```
 
 *显示* :paperclip:
 
-<http://www.baidu.com>
+<http://www.markdown.cn/>
 
+### 图片
+
++ Markdown 使用一种和链接很相似的语法来标记图片，同样也允许两种样式
+
+    + 一个惊叹号 !
+    + 接着一个方括号，里面放上图片的替代文字
+    + 接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上 选择性的 'title' 文字。
+
+*demo* :pushpin:
+
+```
+    !markdown](http://www.markdown.cn/)
+    !markdown](http://www.markdown.cn/ "markdown")
+```
+
+*显示* :paperclip:
+
+!markdown](http://www.markdown.cn/)  
+!markdown](http://www.markdown.cn/ "markdown")
+
+### 表情
+
+:globe_with_meridians: [表情](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
