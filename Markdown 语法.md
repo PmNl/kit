@@ -405,14 +405,14 @@ __加粗__
 *demo* :pushpin:
 
 ```
-    !markdown](http://www.markdown.cn/)
-    !markdown](http://www.markdown.cn/ "markdown")
+    ![图片 图片](https://pic.cnblogs.com/face/1079080/20161212102059.png)  
+    ![图片 图片](https://pic.cnblogs.com/face/1079080/20161212102059.png "图片 图片")
 ```
 
 *显示* :paperclip:
 
-!markdown](http://www.markdown.cn/)  
-!markdown](http://www.markdown.cn/ "markdown")
+![图片 图片](https://pic.cnblogs.com/face/1079080/20161212102059.png)  
+![图片 图片](https://pic.cnblogs.com/face/1079080/20161212102059.png "图片 图片")
 
 ### 表情
 
